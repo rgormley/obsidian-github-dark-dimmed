@@ -8,13 +8,13 @@ Based on [Obsidian GitHub Theme](https://github.com/krios2146/obsidian-theme-git
 <summary> Screenshots </summary>
 <p>
 
-![Screenshot-1](/imgs/screenshots/note.png)
+![Screenshot-1](./imgs/screenshots/note.png)
 
-![Screenshot-2](/imgs/screenshots/note-2.png)
+![Screenshot-2](./imgs/screenshots/note-2.png)
 
-![Screenshot-3](/imgs/screenshots/command-palette.png)
+![Screenshot-3](./imgs/screenshots/command-palette.png)
 
-![Kanban](/imgs/screenshots/kanban-plugin.png)
+![Kanban](./imgs/screenshots/kanban-plugin.png)
 
 </p>
 </details>
@@ -44,7 +44,7 @@ Available on the Obsidian theme store.
 <summary> Manually </summary>
 <p>
 
-1. Download `theme.css` and `manifest.json` files from latest [release](https://github.com/rgormley/obsidian-theme-github-dark-dimmed)
+1. Download `theme.css` and `manifest.json` files from latest [release](https://github.com/rgormley/obsidian-github-dark-dimmed)
 2. Go to **/your_vault/.obsidian/themes/** and create folder for theme files
 3. Paste downloaded theme files into created folder
 4. In Obsidian go to Settings > Appearance > Themes > select GitHub Dark Dimmed Theme in dropdown menu
@@ -54,4 +54,4 @@ Available on the Obsidian theme store.
 
 ## Contributing
 
-Feel free to open an [issue](https://github.com/rgormley/obsidian-theme-github-dark-dimmed/issues) or [Pull Request](https://github.com/rgormley/obsidian-theme-github-dark-dimmed/pulls) on GitHub.
+Feel free to open an [issue](https://github.com/rgormley/obsidian-github-dark-dimmed/issues) or [Pull Request](https://github.com/rgormley/obsidian-github-dark-dimmed/pulls) on GitHub.
